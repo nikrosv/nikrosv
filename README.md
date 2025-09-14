@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header" style="width:100%;">
+
+
+
 ![Descrição do GIF](https://64.media.tumblr.com/92e72aba50aaf642921b1c2636540881/tumblr_mnb0sun4SX1s96b9jo1_500.gif)
 
 ## welcome to nik's profile 💕
