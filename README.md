@@ -42,8 +42,7 @@
 ![MySQL Logo](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Logo do CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="200" height="200">
-</p>
+  
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=header" style="width:100%;">
