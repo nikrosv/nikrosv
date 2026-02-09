@@ -29,5 +29,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 [![GitHub](https://img.shields.io/github/followers/nikrosv?label=follow&style=social)](https://github.com/nikrosv/nikrosv/edit/main/README.md)
