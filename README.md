@@ -20,12 +20,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+[![Inteli Badge](https://img.shields.io/badge/Student-Inteli-yellow?style=for-the-badge&logo=target&logoColor=white)](https://www.inteli.edu.br/)
 
-<br/>
 
-<a href="https://github.com/nikrosv" title="Perfil da nik">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikrosv &theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
